@@ -6,8 +6,8 @@ Duration :AUGUST 25th, 2024 to SEPTEMBER 25th, 2024.
 Mentor : Neela Santhosh Kumar                                            
 
 ---------------------------------------------------OverView Of Project---------------------------------------------------
-Project :  Web Application Penetration Testing 
-Objects :  SQL INJECTION , Xss SCripting  ,insecure authentication vulnerabilities
+Project :  Web Application Penetration Testing                                                         
+Objects :  SQL INJECTION , Xss SCripting  ,insecure authentication vulnerabilities                                                                    
 
 Web Application Penetration Testing (WAPT) is a systematic process used to identify, exploit, and remediate vulnerabilities in web applications. The goal is to mimic a malicious attacker and discover weaknesses in the application's design, configuration, or implementation that could be exploited to gain unauthorized access, steal data, or disrupt services.
 
@@ -36,15 +36,15 @@ Privilege Escalation: Testing whether an attacker can elevate their privileges w
 Post-Exploitation
 
 
-------------------------------------------------------Technology Used------------------------------------------------------
+------------------------------------------------------Technology Used------------------------------------------------------                        
 
 *** Python Programing 
 *** SQL injection
 *** Xss SCripting  
 *** insecure authentication vulnerabilities
 
-
---------------------------------------------------------OUTPUT-----------------------------------------------------------------
+  
+--------------------------------------------------------OUTPUT-----------------------------------------------------------------                      
 
 ![Screenshot_21-8-2024_182527_colab research google com](https://github.com/user-attachments/assets/5ee5d8cf-6867-4aa1-acd8-0dd2eaa499ba)
 
